@@ -1,0 +1,2 @@
+class StoreField < ApplicationRecord
+end

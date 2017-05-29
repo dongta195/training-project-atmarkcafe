@@ -1,0 +1,73 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  tag: MyText
+  service_hours: MyString
+  holiday: MyString
+  building_form: MyText
+  floor: MyString
+  representative: MyString
+  phone: MyString
+  address: MyText
+  monitoring_date: 2017-05-29 16:42:49
+  monitoring_man: MyText
+  monitoring_man_phone: MyText
+  image_base_attach: MyText
+  store_name: MyText
+  store_edit: MyText
+  store_elevator_positon: MyText
+  distance: MyText
+  building_structure: MyText
+  parking_area: MyText
+  entrance_status: MyText
+  living_facility: MyText
+  space: MyText
+  purpose_note: MyText
+  room_or_refector: MyText
+  main_good_service: MyText
+  staff_help_defector: MyText
+  image_extend_attach: MyText
+  grade: MyString
+  longitude: MyString
+  latitude: MyString
+  is_delete: 1
+  description: MyText
+  reported: 1
+  pin: 1
+
+two:
+  name: MyString
+  tag: MyText
+  service_hours: MyString
+  holiday: MyString
+  building_form: MyText
+  floor: MyString
+  representative: MyString
+  phone: MyString
+  address: MyText
+  monitoring_date: 2017-05-29 16:42:49
+  monitoring_man: MyText
+  monitoring_man_phone: MyText
+  image_base_attach: MyText
+  store_name: MyText
+  store_edit: MyText
+  store_elevator_positon: MyText
+  distance: MyText
+  building_structure: MyText
+  parking_area: MyText
+  entrance_status: MyText
+  living_facility: MyText
+  space: MyText
+  purpose_note: MyText
+  room_or_refector: MyText
+  main_good_service: MyText
+  staff_help_defector: MyText
+  image_extend_attach: MyText
+  grade: MyString
+  longitude: MyString
+  latitude: MyString
+  is_delete: 1
+  description: MyText
+  reported: 1
+  pin: 1

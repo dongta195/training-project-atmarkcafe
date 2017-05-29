@@ -1,0 +1,2 @@
+class StoreAccessibility < ApplicationRecord
+end
