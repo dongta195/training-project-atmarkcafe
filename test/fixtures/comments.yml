@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  details: MyString
+  user_username: MyString
+  grade: 1
+  is_delete: 1
+
+two:
+  details: MyString
+  user_username: MyString
+  grade: 1
+  is_delete: 1
